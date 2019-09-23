@@ -1,0 +1,21 @@
+
+.imagem img {
+	width: 100%
+
+	/*background-image: width: 100%; height: 80;*/
+	
+
+}
+.navbar {
+	float: left;
+    padding: 2px; /*opcional*/
+    text-align: center;
+    width: 100%;
+    position: absolute;
+    float: none;
+    background-color: lightblue;
+}
+.container {
+	height: 100;
+}
+
