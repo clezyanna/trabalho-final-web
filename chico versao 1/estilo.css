@@ -1,0 +1,24 @@
+header{
+	background-color: #FF4500;
+	height: 3em;
+	color: #FFF;
+	margin-bottom: 1em;
+}
+
+header h2{
+	font-size: 2em;
+	display:inline-block;
+	vertical-align:	middle;
+}
+
+
+.container{
+	background-color: #333;
+	width: 60%;
+	height: 100%;
+	margin: 0 auto;
+}
+.card-action{
+	background-color:#FF4500;
+
+}
