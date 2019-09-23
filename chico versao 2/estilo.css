@@ -1,0 +1,17 @@
+<style>
+
+nav{
+
+	position: fixed;/*posição fixa*/
+	background: rgba(0, 0, 0, 0.2);
+	padding: 0px 20px;
+}
+			
+section{
+	background-image: url(fazenda.JPEG); 
+	background-size: cover;
+
+}
+
+</style>
+
