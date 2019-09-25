@@ -1,0 +1,64 @@
+.navbar{
+	background-color: #c62828  ;
+	text-align: center;
+}
+
+.principal{
+	width: 100%;
+	float: center;
+	padding: 20px 8%;
+}
+/*.sobre{
+	width: 70%;
+	float: center;
+	padding: 0 20px 20px 0;
+	color: red darken-1;
+
+}*/
+
+/*A COR DOS BOTÕES*/
+.sobre a {
+	/*position: relative;
+	
+	top: 50px;	
+	left: 420px;
+
+	text-align: center;*/
+	position:relative; 
+	top:50px; 
+	left:28%;
+	background-color: #e65100 ;
+
+
+
+	
+
+
+}
+
+.sobre img{
+	width: 70%;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+
+
+}
+
+.voltar a {
+	color: #000000;
+}
+/*.page-footer{
+background-color: #c62828  ;
+
+}*/
+
+
+
+
+
+
+
+
+
