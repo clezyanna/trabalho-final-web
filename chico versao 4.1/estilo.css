@@ -1,0 +1,54 @@
+
+.imagem img {
+	width: 100% /*A largurada imagem*/
+
+}
+.navbar {
+    position: fixed;/*fixara posição*/
+    background: rgba(0, 0, 0, 0.1);/*pra deixar o navbar transparente*/
+    padding:0px 20px;/*define uma a distância entre o conteúdo de um elemento e suas bordas*/
+
+}
+ 
+section{
+    background-size: cover;/*da o movimento de subir e descer*/
+    width: 100%;
+    height: 800px;
+}
+.box{
+    margin-top: 20px;
+    height: 1000px;
+}
+/*.card{
+    height: 100px;
+    margin-top: 5px;
+    top: 5;
+    /*min-height: 300px;*/
+    /*overflow: hidden;*/
+    position: left;*/
+
+}
+.texto{
+    height: 200px;
+    text-align: justify;
+}
+p{
+    font-family: ,arial,helvetica;
+    text-align: justify;
+
+}
+body {
+    background-color: -o-linear-gradient(left,height,  #CCCCCC, #000000);
+    background-image: linear-gradient(#fdd835, #fdd835,#fbc02d,#f9a825 );/*gradiente*/
+    
+    /*background-color: -webkit-gradient(linear,left top,right top,from(#fdd835,#fbc02d));
+    background-color: -webkit-gradient(linear, left top, right top, from(#CCCCCC), to(#000000));*/
+
+    /*#grad {
+  background-image: linear-gradient(to bottom right, red, yellow);*/
+}
+    
+  
+}
+
+   
