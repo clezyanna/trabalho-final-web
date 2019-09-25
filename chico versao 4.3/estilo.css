@@ -1,0 +1,71 @@
+
+.imagem img {
+    
+    top:0px; left:0px;
+	width: 100% /*A largurada imagem de cima*/
+    
+}
+
+.imagemCabeca{
+   
+   top:250px; left:6px
+
+   top: 1.1%;
+}
+.navbar {
+    position: fixed;/*fixara posição*/
+    background: rgba(0, 0, 0, 0.1);/*pra deixar o navbar transparente*/
+    padding:0px 20px;/*define uma a distância entre o conteúdo de um elemento e suas bordas*/
+
+}
+ 
+section{
+    background-size: cover;/*da o movimento de subir e descer*/
+    width: 100%;
+    height: 800px;
+}
+
+.box{
+    margin-top: 20px;
+    height: 1000px;
+}
+
+
+
+
+/*Essa parte é a do gradiente em dois tons de laranja*/
+p{
+    font-family: arial,helvetica;
+    text-align: justify;
+
+}
+
+/*Essa parte é a do gradiente em dois tons de laranja*/
+.gradiente {
+    
+   background: linear-gradient( #fdd835,#f57f17 );    
+}
+
+/*Essa parte é do container nele consta o tamanho do container*/  
+.container {
+    padding-left: 500px;
+    padding-top: 50px;
+}
+
+/*Essa parte é a do texto na consta as cores do testo*/
+h2{
+    color: #c62828 ;
+
+
+
+}
+h6{
+   color: #BC1D20 ;
+   
+  
+  
+}
+
+
+
+   

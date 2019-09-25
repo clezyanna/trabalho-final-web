@@ -1,0 +1,30 @@
+.navbar{
+	background-color: #c62828  ;
+}
+
+.principal{
+	width: 100%;
+	float: center;
+	padding: 20px 8%;
+}
+.sobre{
+	width: 70%;
+	float: center;
+	padding: 0 20px 20px 0;
+	color: red darken-1;
+
+}
+/*A COR DOS BOTÕES*/
+.sobre a {
+	background-color: #e65100 ;
+
+}
+
+.sobre img{
+	width: 70%;
+	float: center;	
+}
+
+.voltar a {
+	color: #000000;
+
