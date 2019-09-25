@@ -1,0 +1,23 @@
+/*NAVBAR DA PAGINÁ DE ASSUNTOS*/
+.nav-wrapper{
+background-color: #c62828  ;
+}
+/*RODAPÁ DA PAGINÁ DE ASSUNTOS*/
+.page-footer{
+background-color: #c62828  ;
+}
+.navbar{
+	background-color: #c62828  ;
+}
+
+/*paginá assuntos*/
+/*a cor do icone*/
+.botao-voltar a {
+	color: #000000;
+}
+
+/*paginá assuntos*/
+/*a cor do icone*/
+.voltar a {
+	color: #000000;
+}

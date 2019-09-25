@@ -1,0 +1,71 @@
+.imagem img {
+  width: 100% /*A largurada imagem*/
+
+}
+/*.navbar {
+    position: fixed;/*fixara posição*/
+    /*background: rgba(0, 0, 0, 0.1);pra deixar o navbar transparente*/
+    /*padding:0px 20px;/*define uma a distância entre o conteúdo de um elemento e suas bordas*/
+
+/*}*/
+.imagemCabeca{
+   position: absolute;
+   left:05px;
+   top: 12%;/*posição do chico*/
+}
+ 
+/*section{
+    background-size: cover;
+    width: 100%;
+    height: 800px;
+}
+.box{
+    margin-top: 20px;
+    height: 1000px;
+}*/
+
+.texto{
+    height: 200px;
+    text-align: justify;
+}
+
+
+body {
+    /*background-color: -o-linear-gradient(left,height,  #CCCCCC, #000000);*/
+    
+   background-image: linear-gradient(to top,#f57f17, #fdd835,#f57f17 );
+        
+}
+/*Essa parte é a do texto na consta as cores do testo*/
+h2{
+
+    color: #c62828;
+    text-align: center;
+}
+
+h6{
+   color: #c62828 ; 
+   text-align: center;
+  
+}
+.container input {
+      
+    top: 40px;/*posição do botão com relação ao top*/
+    left: 45%;/*posição do botão*/
+
+    background: #c62828 ;
+    border-radius: 3px;/*arredonda as bordas*/
+    font-size: 15px;
+    align-content: center;
+
+     width: 100px;
+     height: 40px;
+    
+  
+
+
+
+}
+
+    
+  
